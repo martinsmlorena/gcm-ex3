@@ -1,2 +1,8 @@
 # gcm-ex3
-aula 3
+
+Exercicio 3 de GCM
+
+# Gestão de configurações
+
+Autora Lorena
+Dia 21/02/
